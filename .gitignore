@@ -10,3 +10,5 @@ vscode/
 # .env.production.local
 
 /src/generated/prisma
+logs/*
+!logs/.gitkeep
